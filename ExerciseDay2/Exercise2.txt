@@ -1,0 +1,36 @@
+What Is "User Story" in Scrum ?
+simple descriptions of a feature told from the perspective of the person who desires the new capability
+
+
+What Different Between Change Management in waterfall and an agile Scrum ?
+Agile :
+-project development team only moves to next phase of development or testing if the previous step completed successfully
+
+-Agile helps complete many small projects
+
+-Agile enables the project team to operate without a dedicated project manager
+
+*Advantages of the Agile model :
+-Even late changes in requirements are welcomed
+-Close, daily cooperation between developers.
+
+
+Waterfall :
+-development and testing are concurrent
+
+-Waterfall helps complete one single project
+
+-Waterfall requires a project manager who plays an essential role in every phase
+
+*Advantages of the waterfall model :
+-Clearly defines milestones and deadlines.
+-Is simple to understand, follow and arrange tasks.
+
+
+What Dose Definition Of Done (DoD) Mean ? 
+It captures the shared understanding of a team about what “done” means to them.
+How Can This Be Achieved ?
+checklist to make sure they have covered all the necessary requirements before declaring that an item is done.
+
+Who Write a User Story ?
+product owner, product manager, or program manager

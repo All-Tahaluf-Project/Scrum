@@ -1,0 +1,18 @@
+What is the duration of a scrum sprint ? 
+Two week To One Month
+
+What Is Increment ? 
+Incremental development is a development approach that slices the product into fully working slices that are called increments
+
+What Is Different Role In Scrum ?
+-Product Owner :
+The Product Owner is responsible for maximizing return on investment (ROI) by identifying product features,
+translating these into a prioritized list, deciding which should be at the top of the list for the next Sprint,
+and continually re-prioritizing and refining the list. 
+
+-Scrum team:
+A Development Team is a collection of individuals working together to develop and deliver 
+the requested and committed product increments.
+
+-Scrum Master
+The Scrum Master helps the product group learn and apply Scrum to achieve business value.
