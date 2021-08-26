@@ -1,0 +1,12 @@
+how is estimation done in a scrum project ?
+Traditional estimation is a different ballgame and uses methods that follow ‘bottom-up’ 
+estimating. This means that teams inspect each element of a project, estimate the hours or days required to complete, 
+and then use this information to develop a schedule for the project.
+
+
+what some risk in scrum ?
+-Incomplete requirements.
+-Unrealistic expectations.
+-Incomplete effort.
+How Are They Handle ?
+would be to use Transparency, Inspection, and Adaptation, Use empiricism.
